@@ -1,0 +1,42 @@
+ssh:
+   es una alternativa a telnet para controlar maquinas de manera remota
+   mediante la red, a diferencia de telnet las comunicaciones
+   estan cifradas, generalmente usa el puerto 22
+
+ftp: 
+   es un protocolo para intercambio de archivos por la red, 
+   generalmente se usa para subir archivos a un servidor 
+   aunque en lo personal preiero sftp por que ya viene integrado 
+   con ssh
+
+servidor:
+
+   un servidor es una maquina conectada a la redque provee servicios, y 
+   siempre esta activo no necesariamente escucha peticiones
+   hay unos que simplemente hacen trabajos 
+   de forma chronica, hay servidores, tp,ssh.web.de aplicaciones,etc
+
+host:
+
+   un host se podria decir que es la computadora en la red que contiene 
+   los programas servidores, aveces tienen nombre, hosting como tal
+   es el alojamiento qu ele dan a tus programas, por lo generalmentepagas para 
+   que una maquina corra tus servidores, esa maquina es el host
+
+ip:
+   es un conjunto de numeros que identifica de forma jerarjica y logica las redes 
+   y computadoras
+
+
+protocolo:
+    es un sistema de normas que regulan la comunicacionesentre dos o mas sistemas
+    que transimeten informacion a travez de diversos medios
+
+proxi:
+
+   un proxy es un servidor que hace de intermediario entre tro servidor y un cliente
+   es decir intercepta las paticione, se piuede usar para registrar traficao
+   o restringir perticiones a ciertos servidores (xxx) XD,
+   tambien s epueden usar como cache
+ 
+   
